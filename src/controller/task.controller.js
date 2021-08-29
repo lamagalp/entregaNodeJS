@@ -54,4 +54,5 @@ module.exports = {
     addTask,
     deleteTask,
     updateTask,
+    addTaskOpcionA
 };
